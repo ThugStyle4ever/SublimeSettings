@@ -1,0 +1,38 @@
+{
+	"auto_complete": true,
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"create_window_at_startup": false,
+	"disable_formatted_linebreak": true,
+	"disable_tab_abbreviations": true,
+	"draw_indent_guides": true,
+	"draw_white_space": "all",
+	"find_selected_text": true,
+	"flatland_square_tabs": true,
+	"fold_buttons": true,
+	"font_face": "SourceCodePro-Regular",
+	"font_size": 16.0,
+	"gutter": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"ConvertToUTF8"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"margin": -15,
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+	"show_full_path": true,
+	"tab_completion": true,
+	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?",
+	"word_wrap": "auto"
+}
